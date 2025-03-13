@@ -19,7 +19,8 @@
     color: rgba(255, 179, 0, 0.992);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
-    margin-top: 30px;
+    margin-top: 20px;
+    height: 450px;
 }
 .carousel-inner img {
     width: 600;  
